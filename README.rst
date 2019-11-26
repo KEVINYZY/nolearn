@@ -1,4 +1,4 @@
-*nolearn* contains a number of wrappers and abstractions around
+zd *nolearn* contains a number of wrappers and abstractions around
 existing neural network libraries, most notably `Lasagne
 <http://lasagne.readthedocs.org/>`_, along with a few machine learning
 utility modules.  All code is written to be compatible with
